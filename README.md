@@ -52,6 +52,8 @@ No special installation is required. Simply download the project files and open 
 To preview the project:
 1. Ensure all files are in the same directory.
 2. Open `index.html` in your browser.
+### Screenshot
+![image](https://github.com/user-attachments/assets/880fa076-11e2-42ff-8184-65863899e7cb)
 
 ## License
 This project is free to use and modify for personal or educational purposes. Attribution is appreciated but not required.
